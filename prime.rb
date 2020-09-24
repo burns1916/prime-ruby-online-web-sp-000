@@ -1,7 +1,7 @@
 # Add  code here!
 def prime?(int)
   n = 2
-if int.negative?() || int === 0
+if int.negative?() || int === 0 || int === 1
   return false
 elsif
   while n < int
