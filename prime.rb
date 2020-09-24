@@ -8,6 +8,7 @@ elsif
     return false if int % n == 0
     n += 1
   end
+end
   true
 end
 end
